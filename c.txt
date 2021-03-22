@@ -1,0 +1,15 @@
+
+Name: chiku 
+Marks=21 
+
+Name: ram 
+Marks=4 
+
+Name: kaka 
+Marks=23 
+
+ Name chikuName
+rajuName
+rajaramName
+chikujiName
+chiku
